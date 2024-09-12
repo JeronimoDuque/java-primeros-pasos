@@ -1,0 +1,8 @@
+com\karinahx\calculadoraoperativa\CalculadoraOperativa.class
+com\karinahx\calculadoraoperativa\OpRelacionales.class
+com\karinahx\calculadoraoperativa\Lectura.class
+com\karinahx\calculadoraoperativa\OpCadenas.class
+com\karinahx\calculadoraoperativa\OpBooleanos.class
+com\karinahx\calculadoraoperativa\OpIncrementales.class
+com\karinahx\calculadoraoperativa\OpAritmeticos.class
+com\karinahx\calculadoraoperativa\OpDeBits.class
