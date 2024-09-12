@@ -97,20 +97,5 @@ public class OpAritmeticos {
         System.out.println(a + " % " + b + " = " + resultado);
         return resultado;
     }
-
-    // Sobrecarga de potencia
-    public double potencia(int base, int exponente) {
-        double resultado = Math.pow(base, exponente);
-        System.out.println("La potencia entre los números es: ");
-        System.out.println(base + " ^ " + exponente + " = " + resultado);
-        return resultado;
-    }
-
-    public double potencia(double base, double exponente) {
-        double resultado = Math.pow(base, exponente);
-        System.out.println("La potencia entre los números es: ");
-        System.out.println(base + " ^ " + exponente + " = " + resultado);
-        return resultado;
-    }
     
 }    

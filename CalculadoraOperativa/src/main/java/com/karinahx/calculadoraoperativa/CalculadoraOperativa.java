@@ -19,7 +19,6 @@ public class CalculadoraOperativa {
         aritmeticos.multiplicar(num1, num2);
         aritmeticos.dividir(num1, num2);
         aritmeticos.modulo(num1, num2);
-        aritmeticos.potencia(num1, num2);
     }    
     
     public static void aritmeticosDoublesEjecutar(Lectura lectura, OpAritmeticos aritmeticos) {
@@ -30,7 +29,6 @@ public class CalculadoraOperativa {
         aritmeticos.multiplicar(num1, num2);
         aritmeticos.dividir(num1, num2);
         aritmeticos.modulo(num1, num2);
-        aritmeticos.potencia(num1, (int) num2); // Convertimos num2 a entero para la potencia
     }
 
     // Método para ejecutar operadores relacionales
